@@ -1,4 +1,4 @@
-FROM 51systems/gitlab-ci-android
+FROM jumblesoft/circleci-android
 
 ENV EMULATOR_VERSION=24
         
